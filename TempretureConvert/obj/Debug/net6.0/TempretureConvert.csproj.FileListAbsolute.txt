@@ -1,0 +1,15 @@
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\bin\Debug\net6.0\TempretureConvert.exe
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\bin\Debug\net6.0\TempretureConvert.deps.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\bin\Debug\net6.0\TempretureConvert.runtimeconfig.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\bin\Debug\net6.0\TempretureConvert.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\bin\Debug\net6.0\TempretureConvert.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.csproj.AssemblyReference.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.AssemblyInfoInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.AssemblyInfo.cs
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.csproj.CoreCompileInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\refint\TempretureConvert.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\TempretureConvert.genruntimeconfig.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\TempretureConvert\obj\Debug\net6.0\ref\TempretureConvert.dll

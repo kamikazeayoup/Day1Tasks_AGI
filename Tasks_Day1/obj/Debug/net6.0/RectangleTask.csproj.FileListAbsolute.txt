@@ -1,0 +1,15 @@
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\RectangleTask.exe
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\RectangleTask.deps.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\RectangleTask.runtimeconfig.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\RectangleTask.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\RectangleTask.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.csproj.AssemblyReference.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.AssemblyInfoInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.AssemblyInfo.cs
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.csproj.CoreCompileInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\refint\RectangleTask.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\RectangleTask.genruntimeconfig.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\ref\RectangleTask.dll

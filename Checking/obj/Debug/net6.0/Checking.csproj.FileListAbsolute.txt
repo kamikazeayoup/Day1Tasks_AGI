@@ -1,0 +1,15 @@
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\bin\Debug\net6.0\Checking.exe
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\bin\Debug\net6.0\Checking.deps.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\bin\Debug\net6.0\Checking.runtimeconfig.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\bin\Debug\net6.0\Checking.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\bin\Debug\net6.0\Checking.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.csproj.AssemblyReference.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.AssemblyInfoInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.AssemblyInfo.cs
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.csproj.CoreCompileInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\refint\Checking.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\Checking.genruntimeconfig.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Checking\obj\Debug\net6.0\ref\Checking.dll

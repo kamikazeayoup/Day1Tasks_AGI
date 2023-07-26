@@ -1,0 +1,15 @@
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\Tasks_Day1.exe
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\Tasks_Day1.deps.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\Tasks_Day1.runtimeconfig.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\Tasks_Day1.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\bin\Debug\net6.0\Tasks_Day1.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.csproj.AssemblyReference.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.AssemblyInfoInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.AssemblyInfo.cs
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.csproj.CoreCompileInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\refint\Tasks_Day1.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\Tasks_Day1.genruntimeconfig.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\Tasks_Day1\obj\Debug\net6.0\ref\Tasks_Day1.dll

@@ -1,0 +1,15 @@
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\bin\Debug\net6.0\ArraysManipulation.exe
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\bin\Debug\net6.0\ArraysManipulation.deps.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\bin\Debug\net6.0\ArraysManipulation.runtimeconfig.json
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\bin\Debug\net6.0\ArraysManipulation.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\bin\Debug\net6.0\ArraysManipulation.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.csproj.AssemblyReference.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.AssemblyInfoInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.AssemblyInfo.cs
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.csproj.CoreCompileInputs.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\refint\ArraysManipulation.dll
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.pdb
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ArraysManipulation.genruntimeconfig.cache
+D:\COURSES\C#\codes\AGI\Tasks_Day1\ArraysManipulation\obj\Debug\net6.0\ref\ArraysManipulation.dll
